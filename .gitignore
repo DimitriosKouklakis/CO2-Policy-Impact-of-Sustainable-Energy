@@ -1,3 +1,5 @@
+#To prevent accidental data or Tableau extract uploads.
+
 # Data
 data/raw/
 *.csv
